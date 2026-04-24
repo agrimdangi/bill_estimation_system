@@ -1,0 +1,38 @@
+### 📊 products.xlsx
+
+| Product | Price | Quantity |
+| ------- | ----- | -------- |
+| Rice    | 50    | 2        |
+| Milk    | 30    | 3        |
+| Bread   | 40    | 1        |
+| Eggs    | 6     | 12       |
+| Sugar   | 45    | 2        |
+| Oil     | 120   | 1        |
+| Soap    | 25    | 4        |
+| Shampoo | 150   | 1        |
+
+---
+
+### 📌 Column Explanation
+
+* **Product** → Item name
+* **Price** → Price per unit (₹)
+* **Quantity** → Units purchased
+
+---
+
+### ⚠️ Important
+
+* Save file as:
+  👉 `data/products.xlsx`
+* Column names must match exactly
+* No extra spaces
+
+---
+
+### 💡 Pro Tips (to impress faculty)
+
+* Add more products (15–20 items)
+* Use realistic prices
+* Mention in viva:
+  👉 “System can handle large-scale billing data”
